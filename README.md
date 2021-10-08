@@ -1,8 +1,6 @@
-[![Build Status](https://travis-ci.org/danpoltawski/homebridge-thermostat-netatmo.svg?branch=master)](https://travis-ci.org/danpoltawski/homebridge-thermostat-netatmo)
-
 # homebridge-thermostat-netatmo
 
-A netatmo thermostat plugin for homebridge.
+A netatmo thermostat plugin for homebridge, based on the new Netatmo energy API https://dev.netatmo.com/apidocumentation/energy
 
 To use this plugin, you need to register an application on the Netatmo developer platform
 

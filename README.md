@@ -1,6 +1,7 @@
 # homebridge-thermostat-netatmo
 
 A netatmo thermostat plugin for homebridge, based on the new Netatmo energy API https://dev.netatmo.com/apidocumentation/energy
+Initially this plugin will only allow for switching on and off the scheduled program. This will allow Homekit geofencing to turn of the scheduled heating program in case nobody is at home, which is currently not offered by the default Netatmo Homekit integration.
 
 To use this plugin, you need to register an application on the Netatmo developer platform
 
